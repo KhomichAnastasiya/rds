@@ -1,4 +1,4 @@
-# researching_student_grades
+# Researching Student Grades
 
 ## Задача проекта
 
@@ -6,36 +6,37 @@
 
 ### Краткая информация о данных
 Данные о студентах, представленные в датасете:
-0   school               395 non-null    object 
-1   sex                  395 non-null    object 
-2   age                  395 non-null    int64  
-3   address              378 non-null    object 
-4   famsize              368 non-null    object 
-5   Pstatus              350 non-null    object 
-6   Medu                 392 non-null    float64
-7   Fedu                 371 non-null    float64
-8   Mjob                 376 non-null    object 
-9   Fjob                 359 non-null    object 
-10  reason               378 non-null    object 
-11  guardian             364 non-null    object 
-12  traveltime           367 non-null    float64
-13  studytime            388 non-null    float64
-14  failures             373 non-null    float64
-15  schoolsup            386 non-null    object 
-16  famsup               356 non-null    object 
-17  paid                 355 non-null    object 
-18  activities           381 non-null    object 
-19  nursery              379 non-null    object 
-20  studytime, granular  388 non-null    float64
-21  higher               375 non-null    object 
-22  internet             361 non-null    object 
-23  romantic             364 non-null    object 
-24  famrel               368 non-null    float64
-25  freetime             384 non-null    float64
-26  goout                387 non-null    float64
-27  health               380 non-null    float64
-28  absences             383 non-null    float64
-29  score                389 non-null    float64
+
+0   school               395 non-null    object  
+1   sex                  395 non-null    object  
+2   age                  395 non-null    int64   
+3   address              378 non-null    object  
+4   famsize              368 non-null    object  
+5   Pstatus              350 non-null    object  
+6   Medu                 392 non-null    float64  
+7   Fedu                 371 non-null    float64  
+8   Mjob                 376 non-null    object  
+9   Fjob                 359 non-null    object  
+10  reason               378 non-null    object  
+11  guardian             364 non-null    object  
+12  traveltime           367 non-null    float64  
+13  studytime            388 non-null    float64  
+14  failures             373 non-null    float64  
+15  schoolsup            386 non-null    object  
+16  famsup               356 non-null    object  
+17  paid                 355 non-null    object  
+18  activities           381 non-null    object  
+19  nursery              379 non-null    object  
+20  studytime, granular  388 non-null    float64  
+21  higher               375 non-null    object  
+22  internet             361 non-null    object  
+23  romantic             364 non-null    object  
+24  famrel               368 non-null    float64  
+25  freetime             384 non-null    float64  
+26  goout                387 non-null    float64  
+27  health               380 non-null    float64  
+28  absences             383 non-null    float64  
+29  score                389 non-null    float64  
 
 ### Этапы работы над проектом
 
